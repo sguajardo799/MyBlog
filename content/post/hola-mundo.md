@@ -1,6 +1,6 @@
 ---
 title: "Presentación"
-date: 2022-07-12T20:21:34-04:00
+date: 2022-07-12
 categories:
 - comentarios
 tags:
