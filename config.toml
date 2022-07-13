@@ -13,8 +13,8 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://sguajardoh.com/"
-languageCode = "es-es"
-defaultContentLanguage = "es-egits"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Blog Personal"
 theme = "tranquilpeak"
 disqusShortname = "hugo-tranquilpeak-theme"
@@ -23,7 +23,7 @@ paginate = 7
 canonifyurls = true
 
 [permalinks]
-  posts = "/:year/:month/:slug/"
+  posts = "/:year/:month/:day/:title/"
 
 [taxonomies]
   tag = "tags"
