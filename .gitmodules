@@ -1,3 +1,6 @@
 [submodule "themes/tranquilpeak"]
 	path = themes/tranquilpeak
 	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/themes/gruvbox"]
+	path = themes/themes/gruvbox
+	url = https://github.com/schnerring/hugo-theme-gruvbox.git
